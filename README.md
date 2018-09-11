@@ -3,4 +3,4 @@ This is a particular work I did for an UnB (Universidade de Brasília) group. Th
 
 For this work I first used a low-pass filter in the ADC readings to filter de inconsitencies. Than I uses a differential high-pass filter to detect the momment when the step occurred.
 
-The ramdomization uses the characteristcs specified in the research praradigm.
+The ramdomization uses the characteristcs specified in the research paradigm.
